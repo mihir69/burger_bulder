@@ -1,0 +1,17 @@
+.ContectData{
+ margin : 20px auto;
+ width:80%;
+ text-align: center;
+ padding: 10px;
+ box-sizing: border-box;
+ border: 1px solid rgb(84, 197, 250);
+ box-shadow: 0 2px 3px #ccc;
+ border-radius: 5px;
+
+}
+
+@media (min-width:600px){
+.ContactData{
+    width: 500px;
+}
+}
